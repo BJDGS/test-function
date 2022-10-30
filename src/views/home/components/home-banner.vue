@@ -3,6 +3,7 @@
     <XtxCarousel auto-play :sliders="sliders" />
     <div>lt修改了这个东西</div>
     <div>liteng第二次在原文件修改</div>
+    <div>Li第3次在原文件修改</div>
   </div>
 </template>
 <script>
