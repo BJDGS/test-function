@@ -21,6 +21,8 @@
       </transition>
     </div>
   </HomePanel>
+  <div>test第一次修改
+  </div>
 </template>
 
 <script>
