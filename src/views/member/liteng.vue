@@ -5,4 +5,7 @@
   <div>
     Li第3次在原文件修改
   </div>
+  <div>
+    测试冲突abcd
+  </div>
 </template>
