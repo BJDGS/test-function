@@ -5,4 +5,7 @@
   <div>
     Li第3次在原文件修改
   </div>
+  <div>
+    故意冲突2
+  </div>
 </template>

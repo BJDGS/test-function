@@ -5,4 +5,7 @@
   <div>
     Li修改test3新建的文件
   </div>
+  <div>
+    故意冲突3
+  </div>
 </template>
