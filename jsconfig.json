@@ -1,0 +1,10 @@
+// 让@符号打出后自动弹出地址
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["./src/*"],
+      }
+    },
+    "exclude": ["node_modules", "dist"]
+  }
