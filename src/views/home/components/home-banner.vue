@@ -1,6 +1,7 @@
 <template>
   <div class="home-banner">
     <XtxCarousel auto-play :sliders="sliders" />
+    <div>lt修改了这个东西</div>
   </div>
 </template>
 <script>
