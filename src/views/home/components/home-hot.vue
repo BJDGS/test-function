@@ -18,6 +18,7 @@
       </div>
     </HomePanel>
   </div>
+  <div>test3修改不冲突的文件</div>
 </template>
 
 <script>
