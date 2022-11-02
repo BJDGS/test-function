@@ -17,6 +17,7 @@
           <HomeSkeleton bg="#f0f9f4" v-else />
         </Transition>
       </div>
+      <div>testtest</div>
     </HomePanel>
   </div>
 </template>

@@ -22,6 +22,7 @@
           <span class="reply"><i class="iconfont icon-message"></i>{{item.replyNum}}</span>
         </div>
       </div>
+      <div>testtest</div>
     </div>
   </HomePanel>
 </template>
