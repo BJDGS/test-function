@@ -12,6 +12,7 @@
       </p>
       <p>opyRight &copy; 小兔鲜儿</p>
     </div>
+    <div>testtest</div>
   </footer>
 </template>
 
