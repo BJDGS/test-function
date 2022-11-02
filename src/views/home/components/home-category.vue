@@ -27,6 +27,7 @@
               <p class="decs ellipsis">{{item.desc}}</p>
               <p class="price"><i>￥</i>{{item.price}}</p>
             </div>
+            <div>李李李李李</div>
           </router-link>
         </li>
       </ul>

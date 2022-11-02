@@ -7,6 +7,7 @@
     <p class="desc ellipsis">{{goods.desc}}</p>
     <p class="price">&yen;{{goods.price}}</p>
     <div class="extra">
+      <div>李李李李李</div>
       <router-link to="/">
         <span>找相似</span>
         <span>发现更多宝贝 &gt;</span>
