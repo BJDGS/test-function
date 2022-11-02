@@ -6,6 +6,7 @@
       <XtxSkeleton bg="#e4e4e4" width="120px" height="24px" animated />
     </div>
     <div>李李李</div>
+    <div>testtest</div>
   </div>
 </template>
 

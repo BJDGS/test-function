@@ -22,6 +22,7 @@
           {{time===0?'发送验证码':`${time}秒后发送`}}
         </span>
       </div>
+      <div>testtest</div>
       <div v-if="errors.code" class="error">{{errors.code}}</div>
     </div>
     <div class="xtx-form-item">

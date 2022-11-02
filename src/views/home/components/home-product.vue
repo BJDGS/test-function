@@ -25,6 +25,7 @@
       </div>
     </HomePanel>
   </div>
+  <div>testtest</div>
 </template>
 
 <script>
