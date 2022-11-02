@@ -19,6 +19,8 @@
           <XtxSkeleton class="item" v-for="i in 5" :key="i" animated bg="#e4e4e4" width="240px" height="305px"/>
         </div>
         <div>李李李李李</div>
+        <div>李李李</div>
+        <div>李李李</div>
       </transition>
     </div>
   </HomePanel>

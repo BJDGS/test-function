@@ -21,6 +21,7 @@
             <HomeGoods :goods="item" />
           </li>
         </ul>
+        <div>李李李</div>
       </div>
     </HomePanel>
   </div>
